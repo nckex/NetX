@@ -3,11 +3,10 @@ High performance and customizable TCP server and client
 
 ## Roadmap
 
-- Documentation with samples
-- Unit Tests
-- Benchmark
-- Readme
-- Push to NuGet.org
+- [ ] Update README with documentation with samples
+- [ ] Unit Tests
+- [ ] Benchmark
+- [ ] Push to NuGet.org
 
 ## Special Contributors
 
